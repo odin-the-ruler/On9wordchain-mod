@@ -1,0 +1,4 @@
+asyncio
+re
+telethon
+python-dotenv                                                                          
